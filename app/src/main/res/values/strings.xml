@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">runorwalk</string>
+    <string name="start">START</string>
+    <string name="stop">STOP</string>
+    <string name="settings">Z2 pace</string>
+    <string name="unit_km">km</string>
+    <string name="label_time">TIME</string>
+    <string name="label_pace">PACE /km</string>
+    <string name="label_avg_pace">AVG /km</string>
+    <string name="label_zone_two">ZONE 2</string>
+    <string name="zone_two_value">%1$s  ·  %2$s km  ·  %3$d%%</string>
+    <string name="status_idle">Press START</string>
+    <string name="status_waiting_gps">Waiting for GPS…</string>
+    <string name="status_weak_gps">Weak GPS (%1$d m) - go outside, open sky</string>
+    <string name="status_tracking">Tracking</string>
+    <string name="status_finished">Finished</string>
+    <string name="status_permission">Location permission is required</string>
+    <string name="notification_channel">Workout tracking</string>
+    <string name="notification_text">Tracking your workout</string>
+    <string name="settings_title">Zone 2 pace</string>
+    <string name="settings_hint">Type your Zone 2 range as minutes:seconds per km</string>
+    <string name="label_fast">Fast limit (e.g. 6:00)</string>
+    <string name="label_slow">Slow limit (e.g. 7:00)</string>
+    <string name="save">SAVE</string>
+    <string name="saved">Saved</string>
+</resources>
+
